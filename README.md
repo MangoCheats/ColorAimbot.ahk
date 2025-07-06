@@ -13,6 +13,6 @@ Make a circle
 Divide the fov number on ColorAimbot.ahk (default = 100) by 0.02727272727 
 And you're done!
 
-(This color aimbot works best with ESP)
+(This color aimbot works best with ESP and recoil scripts)
 
 ⚠*WARNING* USE AT YOUR OWN RISK using ColorAimbot.ahk may include in account/hardware bans in games such as Rainbow Six Siege, Valorant, CS2, etc.⚠
