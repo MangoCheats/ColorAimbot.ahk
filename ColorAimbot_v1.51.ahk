@@ -9,7 +9,7 @@ CoordMode, Mouse, Screen
 Process, Priority, % DllCall("GetCurrentProcessId"), High
 
 ; ===== CONFIG =====
-targetColor := 0xFF67FF        ; Adjust based on glow/skin
+targetColor := 0x000000        ; Adjust based on glow/skin 19 = red 28 = green 37 = blue hex = 0x192837
 colorVariation := 50           ; Very tight to avoid false locks
 fov := 100                     ; Large FOV to catch targets fast
 smoothing := 0.38              ; MAX snap strength (lower = harder)
