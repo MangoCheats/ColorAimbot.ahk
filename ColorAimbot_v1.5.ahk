@@ -7,7 +7,7 @@ CoordMode, Pixel, Screen, RGB
 CoordMode, Mouse, Screen
 Process, Priority, % DllCall("GetCurrentProcessId"), High
 
-targetColor := 0xFF67FF
+targetColor := 0x000000
 colorVariation := 50
 fov := 100
 smoothing := 0.3
