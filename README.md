@@ -7,10 +7,11 @@ Tutorial:
   5. Run ColorAimbot.ahk
   6. Run your game
   7. Turn on windows borderless or windowed in your game of choice
+  8. (optional for crouchspam change crouch binds to left shift and L or change in code)
 
 If you want the fov circle you can download Crosshair X 
 Make a circle 
-Divide the fov number on ColorAimbot.ahk (default = 100) by 0.02727272727 
+Multiply the fov number on ColorAimbot.ahk (default = 100) by 0.02727272727 
 And you're done!
 
 (This color aimbot works best with ESP and recoil scripts)
