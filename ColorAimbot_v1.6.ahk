@@ -9,14 +9,10 @@ Process, Priority, % DllCall("GetCurrentProcessId"), High
 
 ; --- Configuration Variables ---
 
-; IMPORTANT: targetColor - Set to FF0000 as requested.
-; ENSURE YOUR IN-GAME ENEMY OUTLINE COLOR IS SET TO FF67FF IN R6S ACCESSIBILITY SETTINGS,
-; OTHERWISE THIS SCRIPT WILL NOT DETECT ANYTHING.
-targetColor := 0xFF67FF ; Pink/Purple color as requested.
+; IMPORTANT: targetColor - Set to your hex code other wise aimbot will not work
+targetColor := 0x000000 ; Black default
 colorVariation := 50    ; Reduced variation for a very specific color match.
-
 fov := 100               ; Field of View: Defines the square search area around the crosshair (pixels)
-                        ; Set to 100 as requested.
 
 ; --- "ONE-SHOT LOCK ON" SETTINGS ---
 ; These settings ensure an immediate, aggressive snap to the target.
